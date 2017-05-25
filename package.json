@@ -1,0 +1,19 @@
+{
+  "name": "react-redux",
+  "version": "1.0.0",
+  "description": "isomorphic app in react and redux",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Collinslenjo/React-Redux.git"
+  },
+  "author": "Collinslenjo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Collinslenjo/React-Redux/issues"
+  },
+  "homepage": "https://github.com/Collinslenjo/React-Redux#readme"
+}
